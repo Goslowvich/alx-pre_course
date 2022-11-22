@@ -1,2 +1,12 @@
+<<<<<<< HEAD
 #!/bin/bah
+=======
+bash/alx contains: HEAD
+
+#!/bin/bash
+echo "ALX School is so cool!"
+=======
+#!/bin/bash
+>>>>>>> master
 echo "ALX School"
+>>>>>>> update_script
